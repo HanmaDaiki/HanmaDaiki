@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">Frontend developer from Moscow, Russia</h3>
 <h3 align="center"><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200"/></h3>
-<h3 align="center"><a href="https://wakatime.com/@cd8e40cd-7cd9-44d3-81e8-a4291efba6a1"><img src="https://wakatime.com/badge/user/cd8e40cd-7cd9-44d3-81e8-a4291efba6a1.svg" alt="Total time coded since Mar 26 2022" /></a></h3>
 
 - 🔭 I’m currently working on [Until The New Year](https://github.com/HanmaDaiki/until-the-new-year)
 
