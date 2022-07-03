@@ -2,8 +2,6 @@
 <h3 align="center">Frontend developer from Moscow, Russia</h3>
 <h3 align="center"><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200"/></h3>
 
-- 🔭 I’m currently working on [Until The New Year](https://github.com/HanmaDaiki/until-the-new-year)
-
 - 🌱 I’m currently learning **JS, React**
 
 - 📫 How to reach me **daikihanma@yandex.ru**
