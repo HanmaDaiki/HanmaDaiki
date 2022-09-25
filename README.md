@@ -30,6 +30,8 @@
   - [Mesto on HTML, CSS, JS](https://github.com/HanmaDaiki/mesto) + [GH Pages](https://hanmadaiki.github.io/mesto/)
 
   - [Mesto on Frontend React](https://github.com/HanmaDaiki/mesto-react) + [GH Pages](https://hanmadaiki.github.io/mesto-react/)
+  
+  - [Mesto on Frontend React with Auth](https://github.com/HanmaDaiki/react-mesto-auth)
 
   - [Mesto Backend](https://github.com/HanmaDaiki/express-mesto-gha)
 
