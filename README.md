@@ -6,6 +6,11 @@
 </p>
 
 <br>
+
+<p align="center">
+  <img width="450" src="https://images.squarespace-cdn.com/content/v1/533af550e4b0a32be0b4c758/1478014252043-6S74L1QBJFMVL6CVHFB8/Kellan+At+Work.gif">
+</p>
+
 <br>
 
 <p>
