@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">Frontend developer from Moscow, Russia</h3>
 <h3 align="center"><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200"/></h3>
-
+s
 - 🌱 I’m currently learning **JS, React**
 
 - 📫 How to reach me **daikihanma@yandex.ru**
