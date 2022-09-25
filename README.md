@@ -31,7 +31,7 @@
 
   - [Mesto Frontend on React](https://github.com/HanmaDaiki/mesto-react) + [GH Pages](https://hanmadaiki.github.io/mesto-react/)
   
-  - [Mesto Frontend on  React with Auth](https://github.com/HanmaDaiki/react-mesto-auth)
+  - [Mesto Frontend on  React with Auth](https://github.com/HanmaDaiki/react-mesto-auth) + [GH Pages](https://hanmadaiki.github.io/react-mesto-auth/)
 
   - [Mesto Backend](https://github.com/HanmaDaiki/express-mesto-gha)
 
