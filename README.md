@@ -24,6 +24,8 @@
  <h1 align="center">My projects:</h1>
 
  - [X] [My First Project](https://github.com/HanmaDaiki/portfolio-site-spa) + [GH Pages](https://hanmadaiki.github.io/portfolio-site-spa/)
+ - [X] [How To Learn HTML, CSS](https://github.com/HanmaDaiki/how-to-learn) + [GH Pages](https://hanmadaiki.github.io/how-to-learn/)
+ - [X] [Russian Travel HTML, CSS(Adaptive)](https://github.com/HanmaDaiki/how-to-learn) + [GH Pages](https://hanmadaiki.github.io/russian-travel/)
  - [ ] Mesto
   - [Mesto on HTML, CSS, JS](https://github.com/HanmaDaiki/mesto) + [GH Pages](https://hanmadaiki.github.io/mesto/)
 
