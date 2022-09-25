@@ -27,11 +27,11 @@
  - [X] [How To Learn HTML, CSS](https://github.com/HanmaDaiki/how-to-learn) + [GH Pages](https://hanmadaiki.github.io/how-to-learn/)
  - [X] [Russian Travel HTML, CSS(Adaptive)](https://github.com/HanmaDaiki/how-to-learn) + [GH Pages](https://hanmadaiki.github.io/russian-travel/)
  - [ ] Mesto
-  - [Mesto on HTML, CSS, JS](https://github.com/HanmaDaiki/mesto) + [GH Pages](https://hanmadaiki.github.io/mesto/)
+  - [Mesto Frontend on HTML, CSS, JS](https://github.com/HanmaDaiki/mesto) + [GH Pages](https://hanmadaiki.github.io/mesto/)
 
-  - [Mesto on Frontend React](https://github.com/HanmaDaiki/mesto-react) + [GH Pages](https://hanmadaiki.github.io/mesto-react/)
+  - [Mesto Frontend on React](https://github.com/HanmaDaiki/mesto-react) + [GH Pages](https://hanmadaiki.github.io/mesto-react/)
   
-  - [Mesto on Frontend React with Auth](https://github.com/HanmaDaiki/react-mesto-auth)
+  - [Mesto Frontend on  React with Auth](https://github.com/HanmaDaiki/react-mesto-auth)
 
   - [Mesto Backend](https://github.com/HanmaDaiki/express-mesto-gha)
 
