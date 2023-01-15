@@ -35,4 +35,5 @@
  - [X] [Diploma Backend](https://github.com/HanmaDaiki/movies-explorer-api)
  - [X] [Diploma Frontend](https://github.com/HanmaDaiki/movies-explorer-frontend)
  - [X] [Test Task Lotus](https://github.com/HanmaDaiki/lotus-test-task)
+ - [X] [How to take ScreenShot](https://github.com/HanmaDaiki/how-screenshot)
  - [ ] [LearnWords](https://github.com/HanmaDaiki/learn-words)
