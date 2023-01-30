@@ -42,3 +42,8 @@
  - [X] [Test Task Lotus](https://github.com/HanmaDaiki/lotus-test-task)
  - [X] [How to take ScreenShot](https://github.com/HanmaDaiki/how-screenshot)
  - [ ] [LearnWords](https://github.com/HanmaDaiki/learn-words)
+
+ <h1 align="center">Contacts:</h1>
+ 
+ - E-mail: daikihanma@yandex.ru
+ - Telegram: [@Daikihanma](https://t.me/DaikiHanma)
