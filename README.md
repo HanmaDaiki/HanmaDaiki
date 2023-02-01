@@ -14,7 +14,7 @@
 <p>
  <h1 align="center">My Skills:</h1>
  
-  - **Frontend:** HTML, CSS, JavaScript, TypeScripte, React, Redux, Webpack, SASS, PUG
+  - **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Redux, Webpack, SASS, PUG
   - **Backend:** Node.js, Express, MongoDB, Mongoose
   - **Other:** Git, Figma, Photoshop
  
