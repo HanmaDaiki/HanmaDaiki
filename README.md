@@ -25,7 +25,7 @@
 <p>
  <h1 align="center">My projects:</h1>
 
- - [X] [My First Project](https://github.com/HanmaDaiki/portfolio-site-spa)
+ - [X] [Photographer's portfolio](https://github.com/HanmaDaiki/portfolio-site-spa)
  - [X] [How To Learn](https://github.com/HanmaDaiki/how-to-learn)
  - [X] [Russian Travel](https://github.com/HanmaDaiki/russian-travel)
  - [X] [Mesto](https://github.com/HanmaDaiki/react-mesto-auth)
