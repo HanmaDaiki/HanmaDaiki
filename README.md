@@ -26,8 +26,8 @@
  <h1 align="center">My projects:</h1>
 
  - [X] [My First Project](https://github.com/HanmaDaiki/portfolio-site-spa)
- - [X] [How To Learn HTML, CSS](https://github.com/HanmaDaiki/how-to-learn)
- - [X] [Russian Travel HTML, CSS(Adaptive)](https://github.com/HanmaDaiki/russian-travel)
+ - [X] [How To Learn](https://github.com/HanmaDaiki/how-to-learn)
+ - [X] [Russian Travel](https://github.com/HanmaDaiki/russian-travel)
  - [X] [Mesto](https://github.com/HanmaDaiki/react-mesto-auth)
  - [X] [Diploma Frontend](https://github.com/HanmaDaiki/movies-explorer-frontend)
  - [X] [How to take ScreenShot](https://github.com/HanmaDaiki/how-screenshot)
