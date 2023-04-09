@@ -36,6 +36,6 @@
 
 <p align="center">
   <h1 align="center">My stats:</h1>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HanmaDaiki&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanmaDaiki&show_icons=true&theme=dark&hide_border=true)
 </p>
