@@ -31,11 +31,4 @@
  - [X] [Mesto](https://github.com/HanmaDaiki/react-mesto-auth)
  - [X] [Diploma Frontend](https://github.com/HanmaDaiki/movies-explorer-frontend)
  - [X] [How to take ScreenShot](https://github.com/HanmaDaiki/how-screenshot)
- - [ ] [LearnWords](https://github.com/HanmaDaiki/learn-words)
-
-
-<p align="center">
-  <h1 align="center">My stats:</h1>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanmaDaiki&show_icons=true&theme=dark&hide_border=true)
-</p>
+ - [X] [LearnWords](https://github.com/HanmaDaiki/learn-words)
