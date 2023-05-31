@@ -30,6 +30,6 @@
  - [X] [How To Learn](https://github.com/HanmaDaiki/how-to-learn)
  - [X] [Russian Travel](https://github.com/HanmaDaiki/russian-travel)
  - [X] [Mesto](https://github.com/HanmaDaiki/react-mesto-auth)
- - [X] [Diploma Frontend](https://github.com/HanmaDaiki/movies-explorer-frontend)
+ - [X] [Movies Explore Client](https://github.com/HanmaDaiki/my-movies-client)
  - [X] [How to take ScreenShot](https://github.com/HanmaDaiki/how-screenshot)
  - [X] [LearnWords](https://github.com/HanmaDaiki/learn-words)
