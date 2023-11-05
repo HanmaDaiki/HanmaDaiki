@@ -21,15 +21,3 @@
 </p>
 
 
-<br>
-
-<p>
- <h1 align="center">My projects:</h1>
-
- - [X] [Photographer's portfolio](https://github.com/HanmaDaiki/portfolio-site-spa)
- - [X] [How To Learn](https://github.com/HanmaDaiki/how-to-learn)
- - [X] [Russian Travel](https://github.com/HanmaDaiki/russian-travel)
- - [ ] [Mesto](https://github.com/HanmaDaiki/react-mesto-auth)
- - [X] [Movies Explore Client](https://github.com/HanmaDaiki/my-movies-client)
- - [X] [Movies Explore API](https://github.com/HanmaDaiki/my-movies-api)
- - [X] [Learn More Words](https://github.com/HanmaDaiki/learn-more-words)
